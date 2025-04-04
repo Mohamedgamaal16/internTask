@@ -1,4 +1,6 @@
- namespace InternTask.models;
+using InternTask.models;
+
+namespace InternTask.extended_models;
 public abstract class ExpirableProduct : Product
 {
     public DateTime ExpiryDate { get; protected set; }
