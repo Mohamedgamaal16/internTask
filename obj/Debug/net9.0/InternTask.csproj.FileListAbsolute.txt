@@ -1,0 +1,15 @@
+/Users/apple/InternTask/bin/Debug/net9.0/InternTask
+/Users/apple/InternTask/bin/Debug/net9.0/InternTask.deps.json
+/Users/apple/InternTask/bin/Debug/net9.0/InternTask.runtimeconfig.json
+/Users/apple/InternTask/bin/Debug/net9.0/InternTask.dll
+/Users/apple/InternTask/bin/Debug/net9.0/InternTask.pdb
+/Users/apple/InternTask/obj/Debug/net9.0/InternTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/InternTask/obj/Debug/net9.0/InternTask.AssemblyInfoInputs.cache
+/Users/apple/InternTask/obj/Debug/net9.0/InternTask.AssemblyInfo.cs
+/Users/apple/InternTask/obj/Debug/net9.0/InternTask.csproj.CoreCompileInputs.cache
+/Users/apple/InternTask/obj/Debug/net9.0/InternTask.sourcelink.json
+/Users/apple/InternTask/obj/Debug/net9.0/InternTask.dll
+/Users/apple/InternTask/obj/Debug/net9.0/refint/InternTask.dll
+/Users/apple/InternTask/obj/Debug/net9.0/InternTask.pdb
+/Users/apple/InternTask/obj/Debug/net9.0/InternTask.genruntimeconfig.cache
+/Users/apple/InternTask/obj/Debug/net9.0/ref/InternTask.dll
