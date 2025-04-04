@@ -1,4 +1,6 @@
- namespace InternTask.models;
+using InternTask.models;
+
+namespace InternTask.extended_models;
 public abstract class NonExpirableProduct : Product
 {
     public NonExpirableProduct(string name, decimal price, int availableQuantity)
@@ -8,6 +10,5 @@ public abstract class NonExpirableProduct : Product
 
     public override bool IsExpired()
     {
-        return false; // Non-expirable products never expire
-    }
+        return false;    }
 }
