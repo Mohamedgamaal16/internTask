@@ -1,5 +1,3 @@
-
-
 class Cheese extends ShippableExpirableProduct {
     public Cheese(String name, double price, int availableQuantity, java.util.Date expiryDate, double weight) {
         super(name, price, availableQuantity, expiryDate, weight);
@@ -23,3 +21,5 @@ class ScratchCard extends NonShippableNonExpirableProduct {
         super(name, price, availableQuantity);
     }
 }
+
+
